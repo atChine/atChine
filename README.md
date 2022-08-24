@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://blog.csdn.net/qq_43649569?spm=1000.2115.3001.5343"><img src="banner.png" alt="edisonlee55 Banner"></a>
+  <a href="https://blog.csdn.net/qq_43649569?spm=1000.2115.3001.5343"><img src="WechatIMG122.jpeg" alt="科技狗"></a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://blog.csdn.net/qq_43649569?spm=1000.2115.3001.5343">Edison Lee</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://blog.csdn.net/qq_43649569?spm=1000.2115.3001.5343">高举</a>!</h1>
 <h1 align="center">Welcome to my GitHub ~ OwO</h1>
 
 <p align="center">
