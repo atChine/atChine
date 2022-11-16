@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://blog.csdn.net/qq_43649569?spm=1000.2115.3001.5343">高举</a>!</h1>
-<h1 align="center">Welcome to my GitHub ~>w<~/h1>
+<h1 align="center">Welcome to my GitHub ~>w<~</h1>
 
 <p align="center">
   <a href="https://github.com/atChine"><img src="https://github-readme-stats.vercel.app/api?username=atChine&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
